@@ -4,7 +4,7 @@
     alt="gif" width="400" align="right">
 <p align="left"> <a href="https://twitter.com/mrchitransh_" target="blank"><img src="https://img.shields.io/twitter/follow/mrchitransh_?logo=twitter&style=for-the-badge" alt="mrchitransh_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://chitransh-portfolio.vercel.app/](https://chitransh-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://nowportfolio.netlify.app/](https://nowportfolio.netlify.app/)
 
 - 📫 How to reach me **thechitranshsrivastava@gmail.com**
 
